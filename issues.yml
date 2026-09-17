@@ -1,0 +1,11 @@
+---
+issues:
+  # NOTE: количество ищщусов может быть разным. Важно, что было что-то. Т.е. видно, что студент потестировал хотя бы то, что уже тестировали, а не просо потыкал проект
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1488#issuecomment-1601415915"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1486#issuecomment-1621523621"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1509"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1510"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1507#issuecomment-1601610518"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1511"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1512"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/2017#issue-2711153843"
